@@ -51,6 +51,42 @@ export default function Sidetbar() {
             <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
             <span className="sidebarFriendName">El Gof</span>
           </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
+          <li className="sidebarFriend">
+            <img src="/assets/person/2.jpeg" alt="" className="sidebarFriendImg" />
+            <span className="sidebarFriendName">El Gof</span>
+          </li>
         </ul>
       </div>
     </div>
